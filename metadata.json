@@ -1,0 +1,6 @@
+{
+  "name": "PocketLM",
+  "description": "Your personal AI knowledge base and interactive notebook designed for students. Synthesize notes, generate flashcards, and create interactive study kits.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
